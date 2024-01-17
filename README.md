@@ -5,15 +5,12 @@
 
 ### Cópia de provaP1_vitor_jose_ferreira.ipynb <br/>
 https://colab.research.google.com/drive/1UbhSnyNckWkrPQzEfGTZfnSos2nwjWsv
-
-### dados_fk_clusterização.ipynb
 <br/>
 
+### dados_fk_clusterização.ipynb <br/>
 https://colab.research.google.com/drive/1J8MpEfQdkraCsVtARhXRknzRZvnlbgFm
 
-### prova_p3_vitor_jose_ferreira.ipynb
-<br/>
-
+### prova_p3_vitor_jose_ferreira.ipynb <br/>
 https://colab.research.google.com/drive/1lc3SQFevW2Wx_iqlkoIZg5T6gI-iJi3Q
 
 ### Projeto_Cancer_Mama.ipynb
